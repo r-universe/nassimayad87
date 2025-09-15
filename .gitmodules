@@ -5,3 +5,6 @@
 [submodule "EpiSimR"]
 	path = EpiSimR
 	url = https://github.com/nassimayad87/episimr
+[submodule "EvalTest"]
+	path = EvalTest
+	url = https://github.com/cran/EvalTest
